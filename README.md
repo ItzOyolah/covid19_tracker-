@@ -50,7 +50,7 @@ Running the Project
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/covid19-tracker.git
+git clone https://github.com/ItzOyolah/covid19-tracker.git
 cd covid19-tracker
 Run the main script:
 
